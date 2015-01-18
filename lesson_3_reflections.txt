@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Not really sure, it doesn't really seem like it matters as long as eventually you push your work to github. But if you are working real time with someone else and want it to be faster, then it may be a benefit to make changes directly into github.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because if it happened automatically, it could happen while you are in the middle of experimenting with some piece of code, and you wouldn't want to commit at that time.

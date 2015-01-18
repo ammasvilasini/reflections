@@ -3,3 +3,13 @@ It creates a git repository on your local system. You can use this to have versi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is in between the working directory and repository, so before you know if you want to commit - then you can experiment in the staging area and commit after you know that is what you want to do.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can add things to the staging area one by one, therefor giving you a lot of control over the commits that you want to make.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want to add a new feature, a branch is a smart idea, so that your master branch is always functional and non-buggy and can be demo'd at any time need be.. You may also want an experimental branch to work on.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is that you get both of the commit histories of both branches, and we represent it in the diagram like this so that we can understand that its not just a merging of the 2 latest commits from each branch.
+
