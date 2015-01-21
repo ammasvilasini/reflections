@@ -3,3 +3,6 @@ Not really sure, it doesn't really seem like it matters as long as eventually yo
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because if it happened automatically, it could happen while you are in the middle of experimenting with some piece of code, and you wouldn't want to commit at that time.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+If i saw a project on github that i wanted to expand upon, i would fork it. If i wanted to get a repository that is on github to be on my local machine, i would clone it. And if i wanted to to add a feature to that project and not change the master, i would create a branch.
