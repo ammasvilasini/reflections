@@ -12,3 +12,6 @@ So that you can update it with the lastest commit from the remote, without havin
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 it seems like this is an excellent solution over the rest like SVN etc.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+One reason would be if you would like to experiment on a branch rather than directly in the master, another reason would be if you wanto to work offline for a while, you can update your branch with the latest master and work offline without having to worry about combining commits at that time.
