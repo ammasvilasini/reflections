@@ -6,3 +6,6 @@ Because if it happened automatically, it could happen while you are in the middl
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 If i saw a project on github that i wanted to expand upon, i would fork it. If i wanted to get a repository that is on github to be on my local machine, i would clone it. And if i wanted to to add a feature to that project and not change the master, i would create a branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So that you can update it with the lastest commit from the remote, without having to combine commits immediately.
